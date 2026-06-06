@@ -18,7 +18,7 @@
 ### 🌿 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,vscode"/>
 </p>
 
 <p align="center">
