@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="banner.png" width="800">
-</p>
-
-<p align="center">
   <img src="studioghibligif.gif" width="700" alt="Rainy Studio Ghibli Scene">
 </p>
 
@@ -14,7 +10,7 @@
   3rd Year Computer Science Student • Major in Machine Learning
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
+---
 
 * ⚡ Currently focusing on: JAVA & Python
 * ✉️  You can contact me at [hidalgosamanthalorin@gmail.com](mailto:hidalgosamanthalorin@gmail.com)
