@@ -25,9 +25,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:14532d,50:50c878,100:fbbf24"/>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamanthaLorin&show_icons=true&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=SamanthaLorin&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanthaLorin&layout=compact&theme=transparent)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamanthaLorin&theme=react-dark)
 
 ---
 ### Socials
