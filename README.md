@@ -12,10 +12,10 @@
 
 ---
 
-* ⚡ Currently focusing on: JAVA & Python
-* ✉️  You can contact me at [hidalgosamanthalorin@gmail.com](mailto:hidalgosamanthalorin@gmail.com)
+* Currently focusing on: JAVA & Python
+* You can contact me at [hidalgosamanthalorin@gmail.com](mailto:hidalgosamanthalorin@gmail.com)
 
-### 🌿 Skills
+### Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,vscode"/>
